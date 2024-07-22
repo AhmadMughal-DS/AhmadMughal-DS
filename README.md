@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AhmadMughal-DS
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python Teacher
+- 💞️ I’m looking to collaborate on MLOps
+- 📫 How to reach me ahmad.dstech@gmail.com
